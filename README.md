@@ -64,12 +64,6 @@ assets/
 
 ---
 
-## 📱 Screenshots
-
-> Add screenshots here or see the live app on Play Store.
-
----
-
 ## 🚀 Why This Project Matters for Recruiters
 
 - Demonstrates **real-world Android app development**  
